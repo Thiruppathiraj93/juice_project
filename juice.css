@@ -26,7 +26,7 @@ nav a:hover, .active {
 }
 
 .hero {
-    background: url('/asset/banner.jpg') center/cover no-repeat;
+    background: url('asset/banner.jpg') center/cover no-repeat;
     color: black;
     text-align: center;
     padding: 100px 20px;
@@ -67,7 +67,7 @@ nav a:hover, .active {
     text-align: center;
 }
 .about{
-    background: url('/asset/about.jpg') center/cover no-repeat;
+    background: url('asset/about.jpg') center/cover no-repeat;
     font-size: 32px;
     height: 60vh;
 }
